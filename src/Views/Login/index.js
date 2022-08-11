@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useState } from "react";
 import { useForm } from "react-hook-form";
-import { useNavigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import "./style.css";
 
 const LoginContainer = () => {
@@ -51,7 +51,11 @@ const LoginContainer = () => {
           onClick={() => setVisibleModal(false)}
         >
           Avec grand plaisir, j'adore react
-        </button>
+        </button><br/>
+        <Link to="/movies-list">
+          <button>Mais si tu veux continuer c'est ici...</button>
+        </Link>
+
       </div>
     );
   };

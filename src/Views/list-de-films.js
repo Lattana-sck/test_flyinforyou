@@ -1,6 +1,6 @@
 export const datas = [
   {
-    poster_path: "/e1mjopzAS2KNsvpbpahQ1a6SkSn.jpg",
+    poster_path: "https://m.media-amazon.com/images/I/8172XvPNMnL._AC_SY606_.jpg",
     adult: false,
     overview:
       "From DC Comics comes the Suicide Squad, an antihero team of incarcerated supervillains who act as deniable assets for the United States government, undertaking high-risk black ops missions in exchange for commuted prison sentences.",
@@ -17,7 +17,7 @@ export const datas = [
     vote_average: 5.91,
   },
   {
-    poster_path: "/lFSSLTlFozwpaGlO31OoUeirBgQ.jpg",
+    poster_path: "https://m.media-amazon.com/images/I/41n2+xdYILL._AC_.jpg",
     adult: false,
     overview:
       "The most dangerous former operative of the CIA is drawn out of hiding to uncover hidden truths about his past.",
@@ -34,7 +34,7 @@ export const datas = [
     vote_average: 5.25,
   },
   {
-    poster_path: "/hU0E130tsGdsYa4K9lc3Xrn5Wyt.jpg",
+    poster_path: "https://m.media-amazon.com/images/I/817i6xGRLVL._AC_SL1500_.jpg",
     adult: false,
     overview:
       "One year after outwitting the FBI and winning the public’s adulation with their mind-bending spectacles, the Four Horsemen resurface only to find themselves face to face with a new enemy who enlists them to pull off their most dangerous heist yet.",
@@ -51,7 +51,7 @@ export const datas = [
     vote_average: 6.64,
   },
   {
-    poster_path: "/h28t2JNNGrZx0fIuAw8aHQFhIxR.jpg",
+    poster_path: "https://m.media-amazon.com/images/I/81DEdvSX2BL._AC_SL1500_.jpg",
     adult: false,
     overview:
       "A recently cheated on married woman falls for a younger man who has moved in next door, but their torrid affair soon takes a dangerous turn.",
@@ -68,7 +68,7 @@ export const datas = [
     vote_average: 4.13,
   },
   {
-    poster_path: "/vOipe2myi26UDwP978hsYOrnUWC.jpg",
+    poster_path: "https://m.media-amazon.com/images/I/81aGwg0SK+L._AC_SX342_.jpg",
     adult: false,
     overview:
       "An orphan boy is raised in the Jungle with the help of a pack of wolves, a bear and a black panther.",
@@ -85,7 +85,7 @@ export const datas = [
     vote_average: 6.42,
   },
   {
-    poster_path: "/tgfRDJs5PFW20Aoh1orEzuxW8cN.jpg",
+    poster_path: "https://m.media-amazon.com/images/I/51d5BjQgAJL._AC_.jpg",
     adult: false,
     overview:
       "Arthur Bishop thought he had put his murderous past behind him when his most formidable foe kidnaps the love of his life. Now he is forced to travel the globe to complete three impossible assassinations, and do what he does best, make them look like accidents.",
@@ -102,7 +102,7 @@ export const datas = [
     vote_average: 4.59,
   },
   {
-    poster_path: "/cGOPbv9wA5gEejkUN892JrveARt.jpg",
+    poster_path: "https://m.media-amazon.com/images/I/51LyjObTYiL._AC_.jpg",
     adult: false,
     overview:
       "Fearing the actions of a god-like Super Hero left unchecked, Gotham City’s own formidable, forceful vigilante takes on Metropolis’s most revered, modern-day savior, while the world wrestles with what sort of hero it really needs. And with Batman and Superman at war with one another, a new threat quickly arises, putting mankind in greater danger than it’s ever known before.",
@@ -119,7 +119,7 @@ export const datas = [
     vote_average: 5.52,
   },
   {
-    poster_path: "/kqjL17yufvn9OVLyXYpvtyrFfak.jpg",
+    poster_path: "https://fr.web.img3.acsta.net/pictures/15/04/14/18/30/215297.jpg",
     adult: false,
     overview:
       "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order. There's Max, a man of action and a man of few words, who seeks peace of mind following the loss of his wife and child in the aftermath of the chaos. And Furiosa, a woman of action and a woman who believes her path to survival may be achieved if she can make it across the desert back to her childhood homeland.",
@@ -136,7 +136,7 @@ export const datas = [
     vote_average: 7.26,
   },
   {
-    poster_path: "/5N20rQURev5CNDcMjHVUZhpoCNC.jpg",
+    poster_path: "https://fr.web.img5.acsta.net/pictures/16/03/11/09/46/182814.jpg",
     adult: false,
     overview:
       "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
@@ -153,7 +153,7 @@ export const datas = [
     vote_average: 6.93,
   },
   {
-    poster_path: "/jjBgi2r5cRt36xF6iNUEhzscEcb.jpg",
+    poster_path: "https://m.media-amazon.com/images/I/91fw15uvmRL._AC_SY679_.jpg",
     adult: false,
     overview:
       "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
@@ -170,7 +170,7 @@ export const datas = [
     vote_average: 6.59,
   },
   {
-    poster_path: "/gj282Pniaa78ZJfbaixyLXnXEDI.jpg",
+    poster_path: "https://m.media-amazon.com/images/I/91Zz7v+W4DL._AC_SL1500_.jpg",
     adult: false,
     overview:
       "Katniss Everdeen reluctantly becomes the symbol of a mass rebellion against the autocratic Capitol.",
@@ -187,7 +187,7 @@ export const datas = [
     vote_average: 6.69,
   },
   {
-    poster_path: "/dCgm7efXDmiABSdWDHBDBx2jwmn.jpg",
+    poster_path: "https://i.pinimg.com/originals/47/d1/d7/47d1d768567bc2562cd11876ecc721bb.jpg",
     adult: false,
     overview:
       "Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother.",
@@ -204,7 +204,7 @@ export const datas = [
     vote_average: 7.39,
   },
   {
-    poster_path: "/5JU9ytZJyR3zmClGmVm9q4Geqbd.jpg",
+    poster_path: "https://m.media-amazon.com/images/I/A1yPqxpvtZL._AC_SY679_.jpg",
     adult: false,
     overview:
       "The year is 2029. John Connor, leader of the resistance continues the war against the machines. At the Los Angeles offensive, John's fears of the unknown future begin to emerge when TECOM spies reveal a new plot by SkyNet that will attack him from both fronts; past and future, and will ultimately change warfare forever.",
@@ -221,7 +221,7 @@ export const datas = [
     vote_average: 5.91,
   },
   {
-    poster_path: "/q0R4crx2SehcEEQEkYObktdeFy.jpg",
+    poster_path: "https://m.media-amazon.com/images/I/81kxsYh54hL._AC_SY679_.jpg",
     adult: false,
     overview:
       "Minions Stuart, Kevin and Bob are recruited by Scarlet Overkill, a super-villain who, alongside her inventor husband Herb, hatches a plot to take over the world.",
@@ -238,7 +238,7 @@ export const datas = [
     vote_average: 6.55,
   },
   {
-    poster_path: "/nBNZadXqJSdt05SHLqgT0HuC5Gm.jpg",
+    poster_path: "https://m.media-amazon.com/images/I/91bR53vUdOL._AC_SY550_.jpg",
     adult: false,
     overview:
       "Interstellar chronicles the adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
@@ -255,7 +255,7 @@ export const datas = [
     vote_average: 8.12,
   },
   {
-    poster_path: "/1ZQVHkvOegv5wVzxD2fphcxl1Ba.jpg",
+    poster_path: "https://images-na.ssl-images-amazon.com/images/I/81fF74DJZlL.jpg",
     adult: false,
     overview:
       "Set after the events of Continental Drift, Scrat's epic pursuit of his elusive acorn catapults him outside of Earth, where he accidentally sets off a series of cosmic events that transform and threaten the planet. To save themselves from peril, Manny, Sid, Diego, and the rest of the herd leave their home and embark on a quest full of thrills and spills, highs and lows, laughter and adventure while traveling to exotic new lands and encountering a host of colorful new characters.",

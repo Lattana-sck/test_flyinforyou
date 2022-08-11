@@ -36,24 +36,24 @@ const LoginContainer = () => {
           justifyContent: "center",
           textAlign: "center",
           padding: 50,
-          border: "1px solid black",
+          border: "1px solid white",
           borderRadius: 25,
         }}
       >
-        <div>Ils reagissent bizarrement ces 2 inputs nan ? </div>
-        <div>Un peu de css serait le bienvenue je pense :)</div>
-        <div style={{ marginTop: 30 }}>
+        <div className="text-slate-300">Ils reagissent bizarrement ces 2 inputs nan ? </div>
+        <div className="text-slate-300">Un peu de css serait le bienvenue je pense :)</div>
+        <div className="text-slate-300" style={{ marginTop: 30 }}>
           Et si tu te sent chaud tu pourrais peut-être régler le problème de
           focus ?!
         </div>
-        <button
+        <button className="text-slate-300"
           style={{ marginTop: 20 }}
           onClick={() => setVisibleModal(false)}
         >
           Avec grand plaisir, j'adore react
         </button><br/>
         <Link to="/movies-list">
-          <button>Mais si tu veux continuer c'est ici...</button>
+          <button className="text-slate-300">Mais si tu veux continuer c'est ici...</button>
         </Link>
 
       </div>
@@ -94,7 +94,7 @@ const LoginContainer = () => {
   };
 
   return (
-    <div
+    <div className="bg-gray-900"
       style={{
         display: "flex",
         flex: 1,
@@ -104,10 +104,10 @@ const LoginContainer = () => {
     >
       {visibleModal && <Modal />}
       {!visibleModal && (
-        <div className="w-full max-w-xs pt-6 ">
+        <div className="w-full max-w-xs pt-6">
           <div className="text-center text-slate-600 decoration-wavy decoration-2 pb-10">
-            <h1 className="">Bienvenue jeune padawan</h1>
-            <img src="https://i.pinimg.com/originals/c1/32/45/c13245e201c5d6beb42dc36ac344b609.jpg"></img>
+            <h1 className="bg-green-500 hover:bg-green-700 uppercase text-slate-50 rounded">Bienvenue jeune padawan</h1>
+            <img className="rounded" src="https://i.pinimg.com/originals/c1/32/45/c13245e201c5d6beb42dc36ac344b609.jpg"></img>
           </div>
           <form
             className="border bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4"

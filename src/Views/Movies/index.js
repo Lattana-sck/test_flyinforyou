@@ -9,18 +9,19 @@ function Index() {
 
   return (
     <>
-    <div className="flex content-center flex-wrap bg-gray-200 h-full">
+    <div className="flex content-center flex-wrap bg-gray-200">
       {datas.map((data) => (
 
-        <div className="w-1/5 p-2 flex flex-col">
-          <Cards 
+        <div className="w-1/6 p-2 flex flex-col">
+          <Cards
+            id={data.id} 
             key={data.id} 
             img={data.poster_path} 
             title={data.title}
             closeModal={setOpenModal}
           />
 
-          {openModal && <Modals
+          {openModal === data.id && <Modals
             key={data.id} 
             img={data.backdrop_path} 
             title={data.title}

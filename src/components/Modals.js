@@ -4,7 +4,7 @@ import { BsCalendarDate } from 'react-icons/bs';
 function Modals({title, overview, release_date, vote_average, vote_count, closeModal}) {
 
   return (
-    <div className='modals text-center'>
+    <div className='modals text-center aboslute bg-white z-50'>
       <h1>{title}</h1>
       <h2>{overview}</h2>
       <p className='justify-center flex'><BsCalendarDate/>&nbsp;&nbsp;{release_date}</p>
@@ -14,6 +14,7 @@ function Modals({title, overview, release_date, vote_average, vote_count, closeM
       className="bg-red-500 hover:bg-red-400 text-white font-bold py-2 px-4 border-b-4 border-red-700 hover:border-red-500 rounded"
       onClick={() => closeModal(false) }>Fermer</button>
     </div>
+
   )
 }
 

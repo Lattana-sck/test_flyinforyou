@@ -23,7 +23,7 @@ function Cards({title, image, description, release_date, vote_average, vote_coun
         onError={(e)=>{e.target.onerror = null; e.target.src="https://www.fleurette-constructeur.fr/wp-content/uploads/2019/09/image-placeholder.jpg"}}/>
         
         {isShown && (
-        <p className='pt-10 bg-teal-100 opacity-90 absolute z-2 top-44 mr-2 border-2 border-teal-500 overflow-auto h-[60%]'>
+        <p className='pt-10 bg-teal-100 opacity-90 absolute z-2 top-[170px] mr-2 border-2 border-teal-500 overflow-auto h-[60%]'>
             
                 <span className="justify-center flex content-center"><AiTwotoneCalendar/>&ensp;{release_date}</span>
                 <span className="justify-center flex content-center"><AiOutlineStar/>&ensp;{vote_average}</span>

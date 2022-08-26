@@ -18,7 +18,7 @@ function Cards({
   return (
     <div
       id={id}
-      className="relative text-gray-700 text-center p-2 w-1/4 hover:shadow-2xl"
+      className="relative text-gray-700 text-center p-2 w-1/5 hover:shadow-2xl"
       onMouseEnter={() => setIsShown(true)}
       onMouseLeave={() => setIsShown(false)}
     >
@@ -45,7 +45,7 @@ function Cards({
       <img
         src={image}
         alt=""
-        className="z-1 w-full h-96"
+        className="z-1 w-full h-96 object-contain"
         onError={(e) => {
           e.target.onerror = null;
           e.target.src =
